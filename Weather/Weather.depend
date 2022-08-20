@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1658454766 source:c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\date.cpp
+	"Date.h"
+
+1658454738 c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\date.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1658454878 source:c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\time.cpp
+	"Time.h"
+
+1658454854 c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\time.h
+	<iostream>
+
+1658454897 source:c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\timetest.cpp
+	<iostream>
+	"Time.h"
+
+1658455133 source:c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\windlogtype.cpp
+	"WindLogType.h"
+
+1658455105 c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\windlogtype.h
+	<iostream>
+	<string>
+	<fstream>
+	"Date.h"
+	"Time.h"
+
+1658455340 source:c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\bsttest.cpp
+	"Bst.h"
+	"Date.h"
+	<iostream>
+	<fstream>
+
+1658455290 c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\bst.h
+	<iostream>
+
+1658556993 source:c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<iomanip>
+	"WindLogType.h"
+	"BstMap.h"
+
+1658455213 c:\users\tan sheng ying\desktop\ict283 assignment 2\weather\bstmap.h
+
+1658454766 source:c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\date.cpp
+	"Date.h"
+
+1658454738 c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\date.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1658454878 source:c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\time.cpp
+	"Time.h"
+
+1658454854 c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\time.h
+	<iostream>
+
+1658455133 source:c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\windlogtype.cpp
+	"WindLogType.h"
+
+1658455105 c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\windlogtype.h
+	<iostream>
+	<string>
+	<fstream>
+	"Date.h"
+	"Time.h"
+
+1658618675 source:c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\maintwo.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<iomanip>
+	<vector>
+	<utility>
+	"WindLogType.h"
+	"Bst.h"
+
+1658737097 c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\bst.h
+	<iostream>
+
+1658736165 source:c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\yearmap.cpp
+	"YearMap.h"
+
+1658736138 c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\yearmap.h
+	<map>
+	<iomanip>
+	<string>
+	"WindLogType.h"
+
+1658753933 source:c:\users\tan sheng ying\desktop\ict283 assignment 2_part 2\weather\mainthree.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<iomanip>
+	<utility>
+	"WindLogType.h"
+	"Bst.h"
+
+1659100470 source:c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\date.cpp
+	"Date.h"
+
+1659100432 c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\date.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1659100473 source:c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\time.cpp
+	"Time.h"
+
+1659100429 c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\time.h
+	<iostream>
+
+1658455133 source:c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\windlogtype.cpp
+	"WindLogType.h"
+
+1658759369 c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\windlogtype.h
+	<iostream>
+	<string>
+	<fstream>
+	"Date.h"
+	"Time.h"
+
+1659145471 source:c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<iomanip>
+	<utility>
+	"WindLogType.h"
+	"Bst.h"
+
+1659100434 c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\bst.h
+	<iostream>
+
+1658910317 source:c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\windlogtypetest.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"WindLogType.h"
+
+1658926234 source:c:\users\tan sheng ying\desktop\ict283_assignment2_tan sheng ying_34455769\weather\bsttest.cpp
+	"Bst.h"
+	"Date.h"
+	<iostream>
+	<fstream>
+
+1659100470 source:c:\users\tan sheng ying\desktop\ict283\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\date.cpp
+	"Date.h"
+
+1659100432 c:\users\tan sheng ying\desktop\ict283\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\date.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1659145471 source:c:\users\tan sheng ying\desktop\ict283\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<iomanip>
+	<utility>
+	"WindLogType.h"
+	"Bst.h"
+
+1658759369 c:\users\tan sheng ying\desktop\ict283\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\windlogtype.h
+	<iostream>
+	<string>
+	<fstream>
+	"Date.h"
+	"Time.h"
+
+1659100429 c:\users\tan sheng ying\desktop\ict283\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\time.h
+	<iostream>
+
+1659100434 c:\users\tan sheng ying\desktop\ict283\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\bst.h
+	<iostream>
+
+1659100473 source:c:\users\tan sheng ying\desktop\ict283\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\time.cpp
+	"Time.h"
+
+1658455133 source:c:\users\tan sheng ying\desktop\ict283\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\windlogtype.cpp
+	"WindLogType.h"
+
+1660789788 source:c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\date.cpp
+	"Date.h"
+
+1659100432 c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\date.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1659100473 source:c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\time.cpp
+	"Time.h"
+
+1659100429 c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\time.h
+	<iostream>
+
+1658455133 source:c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\windlogtype.cpp
+	"WindLogType.h"
+
+1658759369 c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\windlogtype.h
+	<iostream>
+	<string>
+	<fstream>
+	"Date.h"
+	"Time.h"
+
+1660791409 source:c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<iomanip>
+	<utility>
+	"WindLogType.h"
+	"YearMap.h"
+	"Bst.h"
+
+1660638721 c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\bst.h
+	<iostream>
+
+1660633188 source:c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\yearmap.cpp
+	"YearMap.h"
+
+1660635905 c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\yearmap.h
+	"WindLogType.h"
+	<map>
+
+1660637337 source:c:\users\tan sheng ying\desktop\assignment 2\ict283_assignment2_tan sheng ying_34455769\weather\bsttest_date.cpp
+	"Bst.h"
+	"Date.h"
+	<iostream>
+	<fstream>
+
