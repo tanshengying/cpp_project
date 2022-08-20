@@ -1,5 +1,6 @@
 # cpp_project
-C++ school Assignment 
+C++ school Assignment
+
 This is a C++ assignment that I have done for my C++ modules. 
 
 Context of what the project does:
