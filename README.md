@@ -11,5 +11,6 @@ Context of what the project does:
 
 Files provided:
 1) The data folder
-2) A test.cpp for all the different class that is used to test whether the class is working. 
-3) A folder that shows doxygen
+- This folder contain all the data that was provided for this assignment
+2) Weather folder
+- This folder contain all the source code of the different class(class.cpp) and a test class(classTest.cpp) that test to make sure that the class that I am using is working correctly. 
