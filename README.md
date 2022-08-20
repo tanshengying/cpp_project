@@ -11,7 +11,5 @@ Context of what the project does:
 
 
 Files provided:
-1) The data folder
-- This folder contain all the data that was provided for this assignment
-2) Weather folder
-- This folder contain all the source code of the different class(class.cpp) and a test class(classTest.cpp) that test to make sure that the class that I am using is working correctly. 
+1) The data folder: This folder contain all the data that was provided for this assignment
+2) Weather folder: This folder contain all the source code of the different class(class.cpp) and a test class(classTest.cpp) that test to make sure that the class that I am using is working correctly. 
